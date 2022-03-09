@@ -96,3 +96,6 @@ x['b'].isnull()     #Cuenta los valores vacios en la columna
 ################################################################################
 
 #https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html
+
+#how to make plots
+#https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html
