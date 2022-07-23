@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+{{post.title}}
+{{post.content|truncatechars:50}}
+{% endblock content %}

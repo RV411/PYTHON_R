@@ -3,3 +3,6 @@ get-pip.py
 
 django/blog/backend/core/.env
 django/blog/backend/core/__pycache__/*
+django/blog/backend/blog/__pycache__/*
+django/blog/backend/blog/migrations/__pycache__/*
+django/blog/backend/blog/migrations/0001_initial.py
